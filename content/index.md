@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Kate's Digital Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Currently starting work on Gilded Age brainrot.
+
+# The Gilded Age
+## Season 3
+### Episode 7
+[[TGA_S3E7.md | Notes on Episode 7]]
