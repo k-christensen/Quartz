@@ -1,6 +1,6 @@
 ---
 title: Hacks Season 4 Episode 1
-tags: [Hacks, Hacks S4, Deborah, Ava, Marcus, Lipka, meltdown, projecting, survival instincts]
+tags: [Hacks, Hacks S4, Deborah, Ava, Marcus, Lipka, heartless, meltdown, projecting, survival instincts, self deprecation]
 ---
 # What Stuck Out:
 - Ava at the very beginning of the episode talking to Jimmy saying that Deborah is heartless, then Deborah saying during the shoot that Ava broke her heart
@@ -17,5 +17,5 @@ When Deborah has her meltdown to Marcus, she projects her issues with Ava on to 
 
 She's also projecting her issues with being a woman in comedy and all the issues she's facing there on to the reporters asking her somewhat asinine questions but her giving the same kind of biting answers she'd give to Ava asking a dumb question. 
 
-## Reverting Back to Survival Instincts:
+## Self Deprecation/Hostility as a Survival Instinct:
 When Deborah has her meltdown to Marcus, she makes a joke about her distress when she says if this is a time machine, why does she still have crows feet. When you look at this in conjunction with the jokes Deborah made about her burning down her ex husband's house while that same rumor was the source of so much pain and trauma (losing the late night show because of it), you can see that she's returning to survival instincts she's built over her entire career. You could also argue the above point of turning her fear into hostility is just as much a survival instinct. Like at the press conference where she says she's not a woman, she's a comedian, she looks hostile, but the truth is, she's trying to distance herself from a category that has historically been unsuccessful in this field.
