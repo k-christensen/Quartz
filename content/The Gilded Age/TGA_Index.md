@@ -1,3 +1,7 @@
+---
+title: The Gilded Age Index
+---
+
 # Episode Notes
 ## Season 3
-[[The Gilded Age/Episode Notes/Season 3/TGA_S3E7.md| Notes on Episode 7]]
+[[The Gilded Age/Episode Notes/EN_Index.md| Episode Notes Index]]
