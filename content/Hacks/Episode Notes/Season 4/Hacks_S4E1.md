@@ -10,5 +10,5 @@ tags: [Hacks, Hacks S4, Deborah, Ava, Marcus, Lipka, meltdown]
 # Themes:
 ## Deb's Meltdown:
 While Deborah is doing everything to look like she's fine, she's clearly hanging by a thread. This is evident when she's "getting a head start on the demo in the kitchen" by just sledgehammering like crazy. It's most evident when Marcus tries to tell her that he's quitting. 
-## Deb Projecting Ava Feud:
-When Deborah has her meltdown to Marcus, she 
+## Deb Projecting:
+When Deborah has her meltdown to Marcus, she projects her issues with Ava on to Marcus. Marcus can tell and is dumbfounded because he knows her reaction isn't about him, but he doesn't know what the reaction is to. 
