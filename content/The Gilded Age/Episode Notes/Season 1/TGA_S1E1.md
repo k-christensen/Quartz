@@ -1,0 +1,27 @@
+---
+title: Season 1 Episode 1 Notes
+tags: [Raike, Marian, Bertha, George, Enid, Ada, Agnes]
+---
+# Initial Things noted
+- Show sets the tone in the beginning with the sheep in Central Park being pushed to the side so items moving into the Russell home can be transported to their new house
+- Marian holds her father in high regard and insists on him being called General Brook instead of Mr. Brook when she's at Raike's office
+  - Also defends her father against her two aunts to begin with, and only changes her tune when Ada tells her the truth of how much he betrayed the two of them and how he forced Agnes into an ugly marriage that she had to endure
+- In the beginning, Agnes vehemently does not want Marian to come stay with her (girl same) and later she says that every time she opens her mouth, she hears her brother. Possible that Agnes' distaste for new money in part stems from her resentment of her brother
+- When Bertha walks into her new house, she has her armor on and looks the part of the lady of the house. However, there's a moment where she turns around and you can see how in awe she is of the house that has been built for her family. You can see her mask slip and how new she is to having this level of wealth
+- The way George casually pulls Bertha into his lap
+- They lived somewhere on 30th street for three years, and this was where Bertha learned the lay of the land in NYC since 30th was filled with people who were out of fashion
+- One of the workers saying that he's finished something, and Bertha confidently replying, "You think you've finished it. It's not finished until I say it's finished"
+- George brings up a few times how he misses the old friends, Bertha adamantly replies she doesn't want the old friends, she wants new ones. 
+  - Bertha also brushes off inviting her sister along with the old friends
+  - While here she comes off as bratty, within the greater context of the show, seems more a case of being extremely one track mind of making her way up in society
+- Bertha really values Enid's opinion in the beginning, and she got her as her maid specifically so she could guide her on how to blend into the old money society
+  - Enid on the other hand sees Bertha as a new money wannabe who doesn't know what she's doing
+  - Obvious that she thinks that she would be a better Mrs. Russell than Bertha
+- Even in the first episode, they're clearly building up to Larian
+- George can tell the party won't be a success even though Bertha is determined it is, so he tells the architect to come to the party she throws.
+  - You can tell how much he cares about Bertha here and the lengths he's willing to go to protect her
+- George telling Bertha that "I know loving you is not enough" and her saying "It's almost enough", planting seeds of George not feeling sufficient enough for Bertha
+- The only reason Aurora showed up to the ball was that she was hoping making an appearance would get her the donation to her charity
+  - This is when Bertha snaps and tells her to leave and that's when her mood sours for the rest of the evening
+- Lack of warmth at the charity event towards the Russells who have money but no connections contrasted with the warmth towards Marian who has familial connections (so not even friends) but no money
+- When Bertha's rage turns to Marian, George is the one that defends her and says that she came despite her aunts, and that it wasn't with an ulterior motive like Aurora

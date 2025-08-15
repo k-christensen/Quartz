@@ -1,6 +1,6 @@
 ---
 title: The Gilded Age S3 E7
-tags: [TGA,TGA_S3,initial_react]
+tags: [initial react, George, Larry, Bertha, Marian]
 ---
 
 # Initial Reaction:
