@@ -1,6 +1,6 @@
 ---
 title: Season 1 Episode 3 Notes
-tags: [Raike, Marian, Bertha, George, Oscar, Agnes]
+tags: [Raikes, Oscar, Gladys, Bertha, George, Morrises, Agnes, Ada]
 ---
 # Initial Things noted
 - Bertha coming in with a newspaper at the beginning at the scene
