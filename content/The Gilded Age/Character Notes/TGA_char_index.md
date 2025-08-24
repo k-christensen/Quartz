@@ -6,4 +6,4 @@ title: The Gilded Age Character Notes
 - [[The Gilded Age/Character Notes/Bertha.md| Bertha Russell]]
 
 # Relationships:
-- [[content/The Gilded Age/Character Notes/George&Bertha.md| George/Bertha]]
+- [[content/The Gilded Age/Character Notes/GeorgeBertha.md| George and Bertha Russell]]

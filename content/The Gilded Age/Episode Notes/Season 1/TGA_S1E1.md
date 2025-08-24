@@ -10,7 +10,7 @@ tags: [Raike, Marian, Bertha, George, Enid, Ada, Agnes]
 	- later she says that every time she opens her mouth, she hears her brother. 
 	- Possible that Agnes' distaste for new money in part stems from her resentment of her brother
 - When Bertha walks into her new house, she has her armor on and looks the part of the lady of the house. However, there's a moment where she turns around and you can see how in awe she is of the house that has been built for her family. You can see her mask slip and how new she is to having this level of wealth
-- The way George casually pulls Bertha into his lap
+- The way George casually pulls Bertha into his lap ^GeorgeBertha
 - They lived somewhere on 30th street for three years, and this was where Bertha learned the lay of the land in NYC since 30th was filled with people who were out of fashion
 - One of the workers saying that he's finished something, and Bertha confidently replying, "You think you've finished it. It's not finished until I say it's finished"
 - George brings up a few times how he misses the old friends, Bertha adamantly replies she doesn't want the old friends, she wants new ones. 
