@@ -1,0 +1,13 @@
+---
+title: The Gilded Age Season 1 Episode Notes Index
+---
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E1.md| Notes on Episode 1]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E2.md| Notes on Episode 2]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E3.md| Notes on Episode 3]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E4.md| Notes on Episode 4]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E5.md| Notes on Episode 5]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E6.md| Notes on Episode 6]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E7.md| Notes on Episode 7]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E8.md| Notes on Episode 8]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E9.md| Notes on Episode 9]]
+- [[TVShows/The Gilded Age/Episode Notes/Season 1/Initial_things.md| All Initial Notes]]
