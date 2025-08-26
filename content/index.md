@@ -4,8 +4,8 @@ title: Kate's Digital Garden
 
 Brainrot all the way down
 
-# The Gilded Age
-[[The Gilded Age/TGA_Index.md| The Gilded Age Index]]
+# TV
+[[TV Shows/TV_Index.md| TV Shows Index]]
 
-# Hacks
-[[Hacks/Hacks_index.md| Hacks Index]]
+# Movies
+[[Movies/Movies_index.md| Movies Index]]
