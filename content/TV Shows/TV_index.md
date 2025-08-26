@@ -1,5 +1,5 @@
 ---
-title: TV Show Index
+title: TV Shows Index
 ---
 
 # The Gilded Age
