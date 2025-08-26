@@ -10,3 +10,4 @@ title: The Gilded Age Season 1 Episode Notes Index
 - [[The Gilded Age/Episode Notes/Season 1/TGA_S1E7.md| Notes on Episode 7]]
 - [[The Gilded Age/Episode Notes/Season 1/TGA_S1E8.md| Notes on Episode 8]]
 - [[The Gilded Age/Episode Notes/Season 1/TGA_S1E9.md| Notes on Episode 9]]
+- [[The Gilded Age/Episode Notes/Season 1/Initial_things.md| All Initial Notes]]
