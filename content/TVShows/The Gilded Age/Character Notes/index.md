@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Character Notes 
+title: Character Notes 
 ---
 # Characters:
 - [[TVShows/The Gilded Age/Character Notes/George.md| George Russell]]

@@ -1,9 +1,9 @@
 ---
-title: TV Shows Index
+title: TV Shows
 ---
 
-# The Gilded Age
-[[TVShows/The Gilded Age/index.md| The Gilded Age Index]]
+[[TVShows/The Gilded Age/index.md| The Gilded Age]]
 
-# Hacks
-[[TVShows/Hacks/index.md| Hacks Index]]
+
+[[TVShows/Hacks/index.md| Hacks]]
+

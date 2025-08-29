@@ -1,5 +1,5 @@
 ---
-title: Video Essay Index
+title: Video Essays
 ---
 
 Creators:

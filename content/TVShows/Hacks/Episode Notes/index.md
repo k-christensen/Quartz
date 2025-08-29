@@ -1,6 +1,5 @@
 ---
-title: Hacks Episode Notes Index
+title: Seasons
 ---
-# Season 4
-[[TVShows/Hacks/Episode Notes/Season 4/Hacks_S4E1.md| Notes on Episode 1]]
-[[TVShows/Hacks/Episode Notes/Season 4/Hacks_S4E2.md| Notes on Episode 2]]
+
+[[TVShows/Hacks/Episode Notes/Season 4/index.md| Season 4]]

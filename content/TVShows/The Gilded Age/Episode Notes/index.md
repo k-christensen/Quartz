@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Episode Notes Index
+title: Episode Notes
 ---
 
 # Seasons:

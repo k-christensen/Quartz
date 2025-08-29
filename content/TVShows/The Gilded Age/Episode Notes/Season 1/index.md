@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Season 1 Episode Notes Index
+title: Season 1
 ---
 - [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E1.md| Notes on Episode 1]]
 - [[TVShows/The Gilded Age/Episode Notes/Season 1/TGA_S1E2.md| Notes on Episode 2]]

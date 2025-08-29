@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Season 3 Episode Notes Index
+title: Season 3
 ---
 - [[TVShows/The Gilded Age/Episode Notes/Season 3/TGA_S3E1.md| Notes on Episode 1]]
 - [[TVShows/The Gilded Age/Episode Notes/Season 3/TGA_S3E2.md| Notes on Episode 2]]

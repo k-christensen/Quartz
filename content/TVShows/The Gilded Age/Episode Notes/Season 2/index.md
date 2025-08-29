@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Season 2 Episode Notes Index
+title: Season 2
 ---
 - [[TVShows/The Gilded Age/Episode Notes/Season 2/TGA_S2E1.md| Notes on Episode 1]]
 - [[TVShows/The Gilded Age/Episode Notes/Season 2/TGA_S2E2.md| Notes on Episode 2]]

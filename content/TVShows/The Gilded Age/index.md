@@ -1,5 +1,5 @@
 ---
-title: The Gilded Age Index
+title: The Gilded Age
 ---
 
 - [[TVShows/The Gilded Age/Episode Notes/index.md| Episode Notes]]

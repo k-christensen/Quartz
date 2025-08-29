@@ -1,5 +1,5 @@
 ---
-title: Movies Index
+title: Movies
 ---
 
 [[Movies/HisThreeDaughters.md|His Three Daughters]]
